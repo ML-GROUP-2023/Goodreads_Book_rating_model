@@ -15,13 +15,13 @@ from goodreads_books.json(download it [here](https://sites.google.com/eng.ucsd.e
 
 
 ## Authors
-* (Farouk Braham)[https://github.com/faroukb11]
+*  (Farouk Braham)[https://github.com/faroukb11]
 
-* (Nikolai Len)[https://github.com/nikolailen]
+*  (Nikolai Len)[https://github.com/nikolailen]
 
-* (Sanae Dariouche)[https://github.com/Sanae-Dariouche]
+*  (Sanae Dariouche)[https://github.com/Sanae-Dariouche]
 
-* (Fouad Lahouiri)[https://github.com/Fouad-Lahouiri]
+*  (Fouad Lahouiri)[https://github.com/Fouad-Lahouiri]
 ## References
 Mengting Wan, Julian McAuley, "Item Recommendation on Monotonic Behavior Chains", in RecSys'18.  [bibtex]
 
