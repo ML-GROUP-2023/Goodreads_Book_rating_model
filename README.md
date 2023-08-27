@@ -6,7 +6,9 @@ This project is about predicting Book ratings using data from GoodReads
 
 **1.Create an environement using [production-env.txt](https://github.com/ML-GROUP-2023/Goodreads_Book_rating_model/blob/main/production-env.txt)**
 
-**2.Run [goodreads_eda.ipynb](https://github.com/ML-GROUP-2023/Goodreads_Book_rating_model/blob/main/goodreads_eda.ipynb) for EDA**
+**2. Download [goodreads_books_authors.json](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) and place it in the notebooks folder**
+
+**3.Run [goodreads_eda.ipynb](https://github.com/ML-GROUP-2023/Goodreads_Book_rating_model/blob/main/goodreads_eda.ipynb) for EDA**
 
 **3.(optional) the notebook [data_enriching.ipynb](https://github.com/ML-GROUP-2023/Goodreads_Book_rating_model/blob/main/data_enriching.ipynb) shows how we extracted the data stored in the data_enrichement2.csv
 from goodreads_books.json(download it [here](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) 2 GB)**
