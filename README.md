@@ -1,5 +1,5 @@
 # Goodreads_Book_rating_model
-## Describtion
+## Description
 This project is about predicting Book ratings using data from GoodReads
 
 ## Project reproducibility
@@ -22,7 +22,7 @@ from goodreads_books.json(download it [here](https://sites.google.com/eng.ucsd.e
 * (Sanae Dariouche)[https://github.com/Sanae-Dariouche]
 
 * (Fouad Lahouiri)[https://github.com/Fouad-Lahouiri]
-* 
+
 ## References
 Mengting Wan, Julian McAuley, "Item Recommendation on Monotonic Behavior Chains", in RecSys'18.  [bibtex]
 
